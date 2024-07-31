@@ -4,7 +4,7 @@ export const react: Subjects.React = new Subjects.React();
 export const cTeacher: Subjects.Teacher = {
   firstName: 'Beverly',
   lastName: 'Olaeze',
-  experienceTeachingC: 13,
+  experienceTeachingC: 10,
 };
 
 console.log('C++');
